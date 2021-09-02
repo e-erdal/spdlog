@@ -96,7 +96,7 @@
 // Uncomment to customize short level names (e.g. "MT")
 // These can be longer than one character.
 //
-// #define SPDLOG_SHORT_LEVEL_NAMES { "T", "D", "I", "W", "E", "C", "O" }
+#define SPDLOG_SHORT_LEVEL_NAMES { "TRACE", "DEBUG", "INFO", "WARN", "ERROR", "FATAL", "OFF" }
 ///////////////////////////////////////////////////////////////////////////////
 
 ///////////////////////////////////////////////////////////////////////////////
